@@ -15,11 +15,11 @@ No need to spend time:
 
 First test: [Algo] Increment a custom Number type\
 Go to the [Repo](https://github.com/florent-augier/increment-array)\
-Or go to the [Sandbox](https://codesandbox.io/s/yblr5d)
+Or go to the [Sandbox](https://codesandbox.io/s/increment-array-yblr5d)
 
 Second test: [Algo] Fizzbuzz\
 Go to the [Repo](https://github.com/florent-augier/fizzbuzz)\
-Or go to the [Sandbox](https://codesandbox.io/s/yfv965)
+Or go to the [Sandbox](https://codesandbox.io/s/fizzbuzz-yfv965)
 
 Third test: [Frontend] Checkboxes\
 Go to the [Repo](https://github.com/florent-augier/checkboxes-app)\
